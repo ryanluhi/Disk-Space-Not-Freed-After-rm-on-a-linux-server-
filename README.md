@@ -34,11 +34,11 @@ A 1 GB file was created and then deleted with `rm`, but `df -h /` still reported
 
 **Baseline (before the incident):**
 
-![Baseline df output](images01-baseline-df.png)
+![Baseline df output](images01-baseline-df.png.png)
 
 **Full incident, from file creation to recovery:**
 
-![Incident sequence](images02-incident.png)
+![Incident sequence](images02-incident.png.png)
 
 ---
 
